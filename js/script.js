@@ -3,3 +3,5 @@
 console.log("Learning some JS.")
 
 console.log("65 + 10 = " + (65 + 10))
+
+document.getElementById('demo').innerHTML = Date()
